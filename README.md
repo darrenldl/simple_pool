@@ -1,2 +1,4 @@
 # simple_pool
-pool memory allocator
+simplistic pool memory allocator
+
+Construction in progress
